@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+venv/
+club_scanner/login_pass.py
+club_scanner/test_club_scanner.py
+db/data — копия.json
+db/data_backup.json
+db/test_db.py
+rpp/test_rpp.py
+scrapper/chromedriver.exe
+scrapper/test_scrapper.py
+.idea/
