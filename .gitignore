@@ -9,3 +9,5 @@ rpp/test_rpp.py
 scrapper/chromedriver.exe
 scrapper/test_scrapper.py
 .idea/
+rpp/__pycache__/
+db/players_db.db
