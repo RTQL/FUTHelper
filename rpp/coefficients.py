@@ -494,3 +494,11 @@ pos_coef = {
         'aggression': 0.08,
     },
 }
+outstats_coef = {
+    'agility': 0.3,
+    'balance': 0.15,
+    'composure': 0.10,
+    'stamina': 0.10,
+    'strength': 0.2,
+    'aggression': 0.15,
+}

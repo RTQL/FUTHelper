@@ -26,7 +26,6 @@ def rpp_math():
     stat_list = []
     for stat in template:
         stat_list.append(stat)
-
     _rpp_db = {}
     try:
         for card, info in db.items():
